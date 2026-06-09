@@ -22,7 +22,7 @@ export default function Login({ status }) {
         <GuestLayout>
             <Head title="Admin Login" />
 
-                <div className="mb-10 text-center sm:rounded-lg">
+                <div className="mb-10 text-center rounded-3xl">
                     <h1 className="text-2xl font-bold text-gray-800 tracking-tight">SU <span className="text-indigo-600">EDE</span></h1>
                     <p className="mt-2 text-gray-500 font-medium">Admin Portal</p>
                 </div>
